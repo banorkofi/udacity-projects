@@ -26,4 +26,4 @@ The questions I planned on answering were:
 - Are people more likely to show if they receive a text?
 - What is the average difference between scheduled and appointment day? How does this affect appointment attendance?
 
-To find out my conclusions, you can click [here](Project_2_Investigate_A_Dataset/Investigate_A_Dataset.html) to be taken to my Jupyter notebook.
+To find out my conclusions, you can click [here](Investigate_A_Dataset.ipynb) to be taken to my Jupyter notebook.
